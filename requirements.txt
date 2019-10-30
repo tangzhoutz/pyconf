@@ -1,2 +1,2 @@
 certifi==2018.1.18
-PyYAML==3.12
+PyYAML==5.1
